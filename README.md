@@ -11,8 +11,12 @@ Since I was strongly impressed by the Hkirat's youtube clip above, I got to want
 
 This took loong time until to be done, though I learned a lot of new things and capability of Laravel. I will introduce some thing of those.
 
-### ***[To see the video of this project](https://twitter.com/TK47781211/status/1766566920663249330)***
+---
+
+### ***[To see the video of this project](https://www.youtube.com/watch?v=kkY3rtJ7jgI)***
 ### This project of flow diagram can be seen `Upload Flow.jpg`, `Deploy Flow.jpg`, and  `Request Flow.jpg`.
+
+---
 
 ## What I did (especially different way from Hkirat's one)
 Of course JS(typescript) and PHP though.
@@ -56,6 +60,8 @@ event(new DeployStatusMessage('deployed', $id));
 ### 4. About Requests
 ###### Sending a request of github repository URL which will be cloned.
 I made this flow within `resources/views/deploy/form-of-deploy.blade.php` and `resources/js/send-giturl-form.js`
+
+--- 
 
 ###### After the deploy process has done, what I made are:
 1. To have a request from front-end to get a content of React project. This logic is in `app/Http/Controllers/RequestController.php`.
