@@ -4,15 +4,15 @@
 
 > This applicatioin was inspired by Hkirat's vidoe below.
 > https://www.youtube.com/watch?v=c8_tafixiAs&t=7138s  
-> This is the code description.
+> This is the code description of the video.
 > https://projects.100xdevs.com/tracks/ZSQI8YNE0iL6sT1hJpts/vercel-1
 
 Since I was strongly impressed by the Hkirat's youtube clip above, I got to want to make it by using Laravel not just copying his project by Node.js.
 
 This took loong time until to be done, though I learned a lot of new things and capability of Laravel. I will introduce some thing of those.
 
-***[To see the video of this project](https://twitter.com/TK47781211/status/1766566920663249330)***
-
+### ***[To see the video of this project](https://twitter.com/TK47781211/status/1766566920663249330)***
+### This project of flow diagram can be seen `Upload Flow.jpg`, `Deploy Flow.jpg`, and  `Request Flow.jpg`.
 
 ## What I did (especially different way from Hkirat's one)
 Of course JS(typescript) and PHP though.
